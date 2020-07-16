@@ -2,7 +2,7 @@
 Wine Data Access Layer
 
 ## Start the API
-Run the following command:
+Run the following command in build folder:
 `docker-compose up -d`
 
 This brings up a three node Elastic cluster and a Kibana instance.
