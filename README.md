@@ -13,6 +13,7 @@ Once they are up, Kibana can be accessed in http://localhost:5601/
 
 ## Setting up index
 New index created in Kibana PUT /bottles with mapping settings in file:
+
 data/elastic-index-mapping.json (in management > dev tools)
 
 ## Endpoints of API
