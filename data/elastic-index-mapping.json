@@ -1,0 +1,27 @@
+{
+    "settings": {
+        "number_of_shards": 1,
+        "number_of_replicas": 1
+    },
+    "mappings": {
+        "properties": {
+          "country": {"type": "keyword"},
+          "region": {"type": "keyword"},
+          "lage": {"type": "keyword"},
+          "sweetness": {"type": "keyword"},
+          "sugarLevel": {"type": "keyword"},
+          "wineType": {"type": "keyword"},
+          "wineColor": {"type": "keyword"},
+          "title": {"type": "text"},
+          "description": {"type": "keyword"},
+          "alcoholLevel": {"type": "keyword"},
+          "vintage": {"type": "text"},
+          "validEAN": {"type": "boolean"},
+          "acidity": {"type": "keyword"},
+          "winery": {"type": "text"},
+          "grape": {"type": "keyword"},
+          "appellation": {"type": "keyword"}
+        }
+      }
+  }
+  

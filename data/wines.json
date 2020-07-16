@@ -1,0 +1,22 @@
+{
+    "wine": [
+    {
+    "country":"Deutschland",
+    "region":"Mosel",
+    "lage":"Morstein",
+    "sweetness":"lieblich",
+    "sugarLevel":"18%",
+    "wineType":"Stillwein",
+    "wineColor":"white",
+    "title*":"Doppio passo",
+    "description":"This wine is...",
+    "alcoholLevel":"12%",
+    "vintage*":"2018",
+    "validEAN": true,
+    "acidity":"5%",
+    "winery*":"Weinbau Gallhofer",
+    "grape": "Riesling",
+    "appellation":"Chianti"
+}
+]
+}
